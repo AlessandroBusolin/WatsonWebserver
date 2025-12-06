@@ -24,7 +24,7 @@
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		<Title>Watson Webserver Lite</Title>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<DocumentationFile>WatsonWebserver.Lite.xml</DocumentationFile>
 	</PropertyGroup>
 
